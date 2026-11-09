@@ -1,4 +1,4 @@
-# 🤖 Learning scikit-learn: Machine Learning in Python
+# Learning scikit-learn: Machine Learning in Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-orange?style=flat)
@@ -181,4 +181,4 @@ All original authors and contributors are acknowledged. Please refer to the orig
 
 ---
 
-*Exploring machine learning, one notebook at a time.* 🤖
+*Exploring machine learning, one notebook at a time.* 
