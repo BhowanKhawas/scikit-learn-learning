@@ -26,7 +26,6 @@ The original book was written by Raúl Garreta and Guillermo Moncecchi. Diego Ga
 | **Machine Learning Library** | scikit-learn |
 | **Development Environment** | Jupyter / IPython Notebook |
 | **Repository Type** | Educational / Machine Learning |
-| **Source** | [GitHub Repository](https://github.com/gmonce/scikit-learn-book) |
 
 ---
 
